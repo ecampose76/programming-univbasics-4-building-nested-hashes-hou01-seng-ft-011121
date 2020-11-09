@@ -4,7 +4,7 @@ def base_hash
 
 
   
-base_hash[:railroads] = {}
+base_hash[:railroads] = []
 
 
 
