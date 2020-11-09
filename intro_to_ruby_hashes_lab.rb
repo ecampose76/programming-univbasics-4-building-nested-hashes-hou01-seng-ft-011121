@@ -45,7 +45,12 @@ base_hash = {
       :three_pieces_owned => 100,
       :four_pieces_owned => 200
     },
-    :names => {}
+    :names => {
+      :reading_railroad => {},
+      :pennsilvania_railroad => {},
+      :b_and_o_railroad => {},
+      :shortline_railroad => {}
+    }
   }
 }
   
